@@ -26,7 +26,7 @@ baseurl: "/stat386-projects" # keep this the same or change it to the name of th
 url: "https://amillane.github.io" #  change this to "https://<your-github-username>.github.io"
 image: "assets/images/image5.jpg"
 author: Drew Millane
-copyright: ABCD # Your initials or what you want the copyright to be.  Leave empty for no copyright
+copyright: Drew Millane # Your initials or what you want the copyright to be.  Leave empty for no copyright
 
 # Social media users names.  Leave fields blank that you don't want displayed
 twitter_username: 
