@@ -18,13 +18,13 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: Random Forests # Make a title for your blog
+title: Data Trailblazing # Make a title for your blog
 email: amillane99@gmail.com # Add your email 
 description: >- # this means to ignore newlines until "baseurl:"
- A Basic Explanation of Random Forests
+ This place is for those who are fascinated with the world of data science and want to learn more to pave new paths! 
 baseurl: "/stat386-projects" # keep this the same or change it to the name of the repository 
 url: "https://amillane.github.io" #  change this to "https://<your-github-username>.github.io"
-image: "assets/images/image5.jpg"
+image: "https://builtin.com/sites/www.builtin.com/files/styles/ckeditor_optimize/public/inline-images/data-science.png"
 author: Drew Millane
 copyright: Drew Millane # Your initials or what you want the copyright to be.  Leave empty for no copyright
 
