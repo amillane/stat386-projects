@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "API's: Right As Rain"
+title:  "API's Right As Rain"
 date:   2022-10-21
 author: Drew Millane 
 description: Using API keys to webscrape weather data.
