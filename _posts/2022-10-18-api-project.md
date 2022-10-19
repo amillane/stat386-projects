@@ -44,7 +44,7 @@ url = "https://weather.visualcrossing.com/VisualCrossingWebServices/rest/service
 
 # Take The Data By Storm 
 
-![Storm](/assets/images/storm.png)
+![Lightning](/assets/images/storm.png)
 
 Now from here, I want to analyze and explore what Provo’s weather is like for this particular year. I hope you are excited as I am to discover what we can find with the computer knowledge we have! Look at the dataset and see what you can find in our your exploratory data analysis!
 
