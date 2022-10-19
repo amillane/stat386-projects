@@ -20,7 +20,7 @@ First and foremost, I want to show that what I have collected was legal and ethi
 
 Virtual Crossing is one of the leading providers of weather data, which has an easy and low-cost system. What makes their system so painless is their query builder. Below is a screenshot of what the builder looks like. You can manually pick location, variables, and duration. When finished it creates a unique API URL for you to use based on your account API key they provide. Easy as that! 
 
-![Virtual Crossing: Query Builder](~/Desktop/VirtualCrossing.png)
+![Virtual Crossing: Query Builder](/images/VirtualCrossing.png)
 
 # Implementation 
 
