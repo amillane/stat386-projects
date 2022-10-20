@@ -4,7 +4,7 @@ title: "API's Right As Rain"
 date: 2022-10-19
 author: Drew Millane 
 description: Using API keys to webscrape weather data.
-image: <img src = "https://www.setaswall.com/wp-content/uploads/2017/04/Rain-Weather-Water-Drops-Wallpaper-1920x1200.jpg">
+image: https://www.stockvault.net/data/2007/03/01/98725/preview16.jpg
 ---
 
 # Introduction 
