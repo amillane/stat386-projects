@@ -10,7 +10,7 @@ image: https://www.setaswall.com/wp-content/uploads/2017/04/Rain-Weather-Water-D
 # Introduction 
 
 <p align="center">
-<img src="https://github.com/amillane/stat386-projects/raw/main/assets/images/drought.png" width = "500" height="500">
+<img src="https://github.com/amillane/stat386-projects/raw/main/assets/images/drought.png" width = "500" height="400">
 </p>
 
 North America is in a crisis. A crisis that trumps all other crises we are experiencing. The west is enduring one of the longest droughts ever recorded, which is bringing many dire consequences. While this problem looms over our heads, many are stepping up to the plate to solve this issue of water usage. 
@@ -19,7 +19,7 @@ Currently, I am working with Dr. Heaton in the BYU Stat department to see how we
 
 ## Basics of APIs 
 <p align="center">
-<img src="https://github.com/amillane/stat386-projects/raw/main/assets/images/mail.png" width = "500" height='500'>
+<img src="https://github.com/amillane/stat386-projects/raw/main/assets/images/mail.png" width = "500" height='400'>
 </p>
 
 Now, I know what you are thinking. When you read the word API or Application Programming Interface, it’s just an acronym that spells something that makes no sense. However, past the perplexing words, you can uncover an amazing tool that makes web scraping effortless. In summary, an API is a messenger between you and the database you are wanting to collect data from. You ask it for certain things, and it will grab those preferences from the database. Isn’t that so much nicer than reading HTML code and digging to find where to web scrape from?! With that excitement, we are going to use this interface to scrape weather from the website [Virtual Crossing], which houses weather data from all over. 
@@ -61,7 +61,7 @@ url = "https://weather.visualcrossing.com/VisualCrossingWebServices/rest/service
 ## Take The Data By Storm!
 
 <p align="center">
-<img src="https://github.com/amillane/stat386-projects/raw/main/assets/images/storm.png" width = "500" height='500'>
+<img src="https://github.com/amillane/stat386-projects/raw/main/assets/images/storm.png" width = "500" height='400'>
 </p>
 
 Now from here, I want to analyze and explore what Provo’s weather is like for this particular year. I hope you are excited as I am to discover what we can find with the computer knowledge we have! Look at the dataset and see what you can find in our your exploratory data analysis!
