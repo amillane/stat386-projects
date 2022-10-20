@@ -22,7 +22,7 @@ Currently, I am working with Dr. Heaton in the BYU Stat department to see how we
 <img src="https://github.com/amillane/stat386-projects/raw/main/assets/images/mail.png" width = "500" height='350'>
 </p>
 
-Now, I know what you are thinking. When you read the word API or Application Programming Interface, it’s just an acronym that spells something that makes no sense. However, past the perplexing words, you can uncover an amazing tool that makes web scraping effortless. In summary, an API is a messenger between you and the database you are wanting to collect data from. You ask it for certain things, and it will grab those preferences from the database. Isn’t that so much nicer than reading HTML code and digging to find where to web scrape from?! With that excitement, we are going to use this interface to scrape weather from the website [Virtual Crossing], which houses weather data from all over. 
+Now, I know what you are thinking. When you read the word API or Application Programming Interface, it’s just an acronym that spells something that makes no sense. However, past the perplexing words, you can uncover an amazing tool that makes web scraping effortless. In summary, an API is a messenger between you and the database you are wanting to collect data from. You ask it for certain things, and it will grab those preferences from the database. Isn’t that so much nicer than reading HTML code and digging to find where to web scrape from?! With that excitement, we are going to use this interface to scrape weather from the website ![Virtual Crossing](https://www.visualcrossing.com), which houses weather data from all over. 
 		
 
 ## Ethical?
@@ -40,7 +40,7 @@ Virtual Crossing is one of the leading providers of weather data, which has an e
 
 ## Code
 
-Below is a piece of the code that contains the API URL. I am using Python with the library’s requests, pandas, and config. From here you can change, which location to look at and what days to range from. For your information, if you have a free account, you can only do a small query so make sure your range of dates is small. 
+Below is a piece of the code that contains the API URL. I am using Python with the libraries requests, pandas, and config. From here you can change, which location to look at and what days to range from. For your information, if you have a free account, you can only do a small query so make sure your range of dates is small. 
 
 ```
 #Defining Parameters 
@@ -64,6 +64,6 @@ url = "https://weather.visualcrossing.com/VisualCrossingWebServices/rest/service
 <img src="https://github.com/amillane/stat386-projects/raw/main/assets/images/storm.png" width = "500" height='350'>
 </p>
 
-Now from here, I want to analyze and explore what Provo’s weather is like for this particular year. I hope you are excited as I am to discover what we can find with the computer knowledge we have! Look at the dataset and see what you can find in our your exploratory data analysis!
+Now from here, I want to analyze and explore what Provo’s weather is like for this particular year. I hope you are excited as I am to discover what we can find with the computer knowledge we have! Look at the dataset that is stored ![here](https://github.com/amillane/Provo_Weather-) and see what you can find in our your exploratory data analysis!
 
 
