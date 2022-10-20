@@ -64,6 +64,6 @@ url = "https://weather.visualcrossing.com/VisualCrossingWebServices/rest/service
 <img src="https://github.com/amillane/stat386-projects/raw/main/assets/images/storm.png" width = "500" height='350'>
 </p>
 
-Now from here, I want to analyze and explore what Provo’s weather is like for this particular year. I hope you are excited as I am to discover what we can find with the computer knowledge we have! Look at the dataset that is stored [here](https://github.com/amillane/Provo_Weather-) and see what you can find in our your exploratory data analysis!
+Now from here, I want to analyze and explore what Provo’s weather is like for this particular year. I hope you are excited as I am as we discover what we can find with the knowledge we have! Look at the dataset that is stored [here](https://github.com/amillane/Provo_Weather-) and see what you can find in our your exploratory data analysis!
 
 
