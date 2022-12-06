@@ -21,6 +21,6 @@ For those who have been with me this entire journey, I hope you enjoyed the proj
 After conducting the exploratory data analysis, I claim that in Provo the temperature fluctuates and increases more easily than later in the year. To support this claim, I created a graphic that displays the temperature from January to October of this year. Contained in this graphic are three-line plots: average, maximum, and minimum temperatures in Fahrenheit. Notice the variability of the temperature from January to July. It seems to fluctuate frequently and in large intervals. However, after July the temperatures are consistent and don’t vary a lot from there. Therefore, it seems that overall, it takes longer for the climate to cool down than it does to warm up. 
 
 # The Story Doesn't End Here
-This is a story that I want to delve deeper into, because of its fascinating possibilities and explanations of why this phenomenon occurs. What do you think is happening here? Comment down below! 
+This is a story that I want to delve deeper into, because of its fascinating possibilities and explanations of why this phenomenon occurs. What do you think is happening here? Comment down below! Here is the link to the [repository](https://github.com/amillane/Provo_Weather-). 
 
 
