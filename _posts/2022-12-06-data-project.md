@@ -16,7 +16,7 @@ image: https://images.unsplash.com/photo-1559828187-9bf6757861f5?ixlib=rb-4.0.3&
 
 For those who have been with me this entire journey, I hope you enjoyed the project as much as I did! This project started with a desire to know what is going on with the weather here in the West, specifically in Provo, Utah. To fulfill this desire, I started by collecting the data we needed to create our story. I used an API key to collect basic weather measurements recorded this year provided by a weather data service. Following data collection, I performed an exploratory data analysis and created graphics that focused on temperature, precipitation, and windspeed to uncover a piece of the puzzle. For more details, check the previous blog posts. 
 
-# The Story 
+# The Data Story 
 
 After conducting the exploratory data analysis, I claim that in Provo the temperature fluctuates and increases more easily than later in the year. To support this claim, I created a graphic that displays the temperature from January to October of this year. Contained in this graphic are three-line plots: average, maximum, and minimum temperatures in Fahrenheit. Notice the variability of the temperature from January to July. It seems to fluctuate frequently and in large intervals. However, after July the temperatures are consistent and don’t vary a lot from there. Therefore, it seems that overall, it takes longer for the climate to cool down than it does to warm up. See the graphic below! 
 
